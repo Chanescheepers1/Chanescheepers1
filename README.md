@@ -2,6 +2,7 @@
 
 <!--
 **Chanescheepers1/Chanescheepers1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![306f6329-ddd4-4a90-b4cd-893d06e4b932](https://github.com/user-attachments/assets/6c941702-0c11-4dd0-b138-4fc9252e5aac)
 
 Here are some ideas to get you started:
 
