@@ -49,3 +49,32 @@ open_project("code that is 98% broken")
 drink_coffee()
 procrastinate()
 # repeat daily
+
+---
+
+### 🧻 Mood Board
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0BKqhdlKCxCNsVTq/giphy.gif" width="220" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZlY3BlYmpsdmI3d2h2cGFmeTRzb3lvdHVjb3M1cXZ6MnpxYThyeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6ZsU2oIVK6r4f4iA/giphy.gif" width="220" />
+  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="220" />
+</p>
+---
+
+### 📌 Motto
+> If everything’s on fire, at least it’s warm.
+
+---
+
+### 🤝 Let's Connect  
+⚡ Still pretending I’ll post updates here.  
+📫 Email? Sure. Will I check it? No promises.  
+🌐 Probably building something cool... eventually.
+
+---
+
+#### 🪦 *This profile README was last updated during a particularly potent procrastination spiral. No commits were harmed in the making (yet).*
+```
+
+---
+
+Wanna throw in GitHub stats, dark-mode badges, or a fake “sponsors” section full of snacks and therapy? I can expand this to full absurdity. Just say the word.
